@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to Steve's blog
 
-I'm glad you are here. I plan to talk about ...
+This is a new Blog page created for the purpose of learning how to use GitHup Pages.
+:musical_note: :performing_arts:
